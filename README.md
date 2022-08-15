@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avibee
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on flexbox
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on anything web dev.
 - 📫 How to reach me philipbuxtonavi@gmail.com
 
 <!---
